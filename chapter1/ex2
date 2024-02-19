@@ -1,1 +1,4 @@
-
+# If you are trying to print a string, what happens if you leave out one of the quotation marks, or both?
+# solution:
+# If we omit both quotations while outputting a string we get a name error. that is NameError: name is not defined.
+This is because the compiler will interprete the string as undefined words. If we omit one quotation, we get SyntaxError:EOL while scanning string literal error.
