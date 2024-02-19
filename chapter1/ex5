@@ -1,1 +1,4 @@
-
+#  What happens if you have two values with no operator between them?
+# solution:
+# When typing in two values with no operator and a space between them we get a syntax error. 
+This happens because without an operator the interpreter does not have a clear directive on the action it is supposed to perform.
